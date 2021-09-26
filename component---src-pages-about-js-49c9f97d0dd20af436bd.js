@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknutrition=self.webpackChunknutrition||[]).push([[682],{5518:function(e,n,t){t.r(n);var l=t(7294),u=t(7711);n.default=function(){return l.createElement(u.Z,null,l.createElement("h1",null,"About Me"),l.createElement("p",null,"This page is currently under development. Please come back later."))}}}]);
+//# sourceMappingURL=component---src-pages-about-js-49c9f97d0dd20af436bd.js.map
