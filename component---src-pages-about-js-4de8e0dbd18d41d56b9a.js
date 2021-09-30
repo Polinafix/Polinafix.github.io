@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknutrition=self.webpackChunknutrition||[]).push([[682],{5518:function(e,t,n){n.r(t);var l=n(7294),u=n(8069);t.default=function(){return l.createElement(u.Z,{className:"my-5"},l.createElement("h1",null,"About Me"),l.createElement("p",null,"This page is currently under development. Please come back later."))}}}]);
+//# sourceMappingURL=component---src-pages-about-js-4de8e0dbd18d41d56b9a.js.map

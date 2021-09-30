@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknutrition=self.webpackChunknutrition||[]).push([[883],{9616:function(e,t,n){n.r(t);var o=n(7294),a=n(5444),l=n(8069);t.default=function(){return o.createElement(l.Z,{className:"my-5"},o.createElement("h1",null,"Not Found"),o.createElement("p",null,"Oops, it looks like this page does not exist. You can get started from ",o.createElement(a.rU,{to:"/"},"the home page"),"."))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-a725bde5f23ef89f94d3.js.map

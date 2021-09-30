@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknutrition=self.webpackChunknutrition||[]).push([[501],{262:function(e,t,n){n.r(t);var l=n(7294),a=n(8069);t.default=function(){return l.createElement(a.Z,{className:"my-5"},l.createElement("h1",null,"Contact Me"),l.createElement("p",null,"This page is currently under development. Please come back later."))}}}]);
+//# sourceMappingURL=component---src-pages-contact-js-8601661a641b62e2e30a.js.map
